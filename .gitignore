@@ -42,10 +42,6 @@ media/
 staticfiles/
 static/
 
-# CSV files in resources
-resources/*.csv
-resources/**/*.csv
-
 # IDE - VS Code
 .vscode/
 *.code-workspace
