@@ -80,7 +80,7 @@ copro/
 - **SQLite** - Base de données (développement)
 
 ## Remplir la base de données à partir d'un CSV
-- Placer le/les fichier(s) CSV dans ***resources/***
+- Placer le/les fichier(s) CSV dans ***copro/resources/***
 
 ```bash
 # Importer le CSV dans la BDD
